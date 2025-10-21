@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-hi 
 I am a Ph.D. student at Stanford University where I am advised by [Manu Prakash](https://prakashlab.stanford.edu/). My research focuses on problems in biological fluid mechanics and physical learning.
 
 I graduated from Brown University in 2021 with a Sc.B. in Mechanical Engineering (Honours). During my time at Brown, I had the opportunity to work with [Daniel Harris](https://sites.brown.edu/harrislab/) where I studied [interfacial fluid mechaincs](https://www.brown.edu/news/2019-12-19/cheeriosbar).
@@ -47,6 +46,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
