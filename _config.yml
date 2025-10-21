@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin Foster"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://benlfoster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ianaho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "benlfoster/benlfoster.github.io"
+repository               : "ianaho/ianaho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,42 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Foster"
+  name             : "Ian Ho"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoctoral Researcher in Bioengineering at Stanford"
+  bio              : "Ph.D. Student in Bioengineering<br><a href='/assets/docs/CV_Ian.pdf'>CV (PDF)</a>"
   location         : "Stanford"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=h4r3c0wAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=53RtTSYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : #"academicpages"
   google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0894-9953"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  orcid            : 
   twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -184,9 +161,9 @@ collections:
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -202,6 +179,7 @@ defaults:
       comments: true
       share: true
       related: true
+      masthead_title: "About me"
   # _pages
   - scope:
       path: ""
@@ -209,6 +187,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      masthead_title: "About me"
   # _teaching
   - scope:
       path: ""
@@ -218,6 +197,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      masthead_title: "About me"
   # _publications
   - scope:
       path: ""
@@ -227,23 +207,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
- # - scope:
- #     path: ""
- #     type: portfolio
- #   values:
- #     layout: single
- #     author_profile: true
- #     share: true
- #     comment: true
+      masthead_title: "About me"
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
@@ -309,3 +281,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
