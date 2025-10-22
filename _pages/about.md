@@ -24,17 +24,9 @@ Current email: ianho 'at' stanford.edu
     Selected list of related publications:
   * [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
 
-<div style="position:relative; height: 800px; border-radius:8px; overflow:hidden;">
-  <object
-    data="{{ '/images/interface.png' | relative_url }}"
-    type="application/pdf"
-    width="20%"
-    height="20%">
-    <p>Your browser can’t display PDFs inline.
-      <a href="{{ '/images/interface.pdf' | relative_url }}">Download interface.pdf</a>.
-    </p>
-  </object>
-</div>
+<img src="{{ '/images/interface.png' | relative_url }}"
+     alt="Interface diagram"
+     style="max-width:600px; width:100%; height:auto; display:block; margin:0 auto;">
 
 - **Interfacial drag, propulsion & self-assembly**
 
@@ -58,6 +50,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
