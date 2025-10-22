@@ -89,7 +89,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : #"academicpages"
   google_plus      :
-  linkedin         : "https://www.linkedin.com/in/ian-h-680595146"
+  linkedin         : "ian-h-680595146"
   orcid            : 
   twitter          : #"replacethistwitterhandle"
   wikipedia        :
@@ -281,6 +281,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
