@@ -25,6 +25,7 @@ Current email: ianho 'at' stanford.edu
   * [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
 
 - **Interfacial drag, propulsion & self-assembly**
+  
 <img src="{{ '/images/interface.png' | relative_url }}"
      alt="Interface diagram"
      style="max-width:600px; width:100%; height:auto; display:block; margin:0 auto;">
@@ -49,6 +50,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
