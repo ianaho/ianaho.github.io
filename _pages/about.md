@@ -24,21 +24,13 @@ Current email: ianho 'at' stanford.edu
     Selected list of related publications:
   * [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
 
-<div style="position:relative; height: 800px; border-radius:8px; overflow:hidden;">
-  <object
-    data="{{ '/images/interface.pdf' | relative_url }}"
-    type="application/pdf"
-    width="100%"
-    height="100%">
-    <p>Your browser can’t display PDFs inline.
-      <a href="{{ '/images/interface.pdf' | relative_url }}">Download interface.pdf</a>.
-    </p>
-  </object>
-</div>
-
 - **Interfacial drag, propulsion & self-assembly**
+  
+<img src="{{ '/images/interface.png' | relative_url }}"
+     alt="Interface diagram"
+     style="max-width:600px; width:100%; height:auto; display:block; margin:0 auto;">
 
-    Selected list of related publications:
+  Selected list of related publications:
   * [Capillary surfers: Wave-driven particles at a vibrating fluid interface](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.L112001) (*Physical Review Fluids*, 2023)
   * [Direct Measurement of Capillary Attraction between Floating Disks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.254502) (*Physical Review Letters*, 2019)
   * [Friction on water sliders](https://www.nature.com/articles/s41598-019-40797-y) (*Scientific Reports*, 2019)
@@ -58,6 +50,12 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
+
+
+
+
+
 
 
 
