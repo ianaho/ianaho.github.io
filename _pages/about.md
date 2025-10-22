@@ -43,7 +43,7 @@ Current email: ianho 'at' stanford.edu
   * [Direct Measurement of Capillary Attraction between Floating Disks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.254502) (*Physical Review Letters*, 2019)
   * [Friction on water sliders](https://www.nature.com/articles/s41598-019-40797-y) (*Scientific Reports*, 2019)
 
-    These works have also been the focus of some press:
+  These works have also been the focus of some press:
   * [Synchronized Surfing of Self-Propelled Particles](https://physics.aps.org/articles/v16/s156) (*APS*, 2023)
   * [Physicists measured forces behind why Cheerios clump together in your bowl](https://arstechnica.com/science/2019/12/physicists-measured-forces-behind-why-cheerios-clump-together-in-your-bowl/) (*Ars Technica*, 2019)
   * [The Force that Clumps Your Breakfast Cereal](https://physics.aps.org/articles/v12/s147) (*APS*, 2019)
@@ -58,6 +58,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
