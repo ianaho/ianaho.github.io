@@ -16,11 +16,21 @@ I graduated from Brown University in 2021 with a Sc.B. in Mechanical Engineering
 Current email: ianho 'at' stanford.edu
 
 ## Research interests
-- **Biological swimming & dispersal**  
+- **Biological swimming & dispersal**
+
+<img src="{{ '/images/swim.png' | relative_url }}"
+     alt="Interface diagram"
+     style="max-width:600px; width:100%; height:auto; display:block; margin:0 auto;">
+
     Selected list of related publications:
   * [Schistosomiasis parasite enhance transmission rates via interfacial swimming](https://www.biorxiv.org/content/10.1101/2025.05.13.653683v1) (*Preprint*, 2025)
 
 - **Physical learning**
+
+<img src="{{ '/images/ads.png' | relative_url }}"
+     alt="Interface diagram"
+     style="max-width:600px; width:100%; height:auto; display:block; margin:0 auto;">
+  
     Selected list of related publications:
   * [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
 
@@ -50,6 +60,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
