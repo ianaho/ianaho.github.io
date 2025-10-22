@@ -28,8 +28,8 @@ Current email: ianho 'at' stanford.edu
   <object
     data="{{ '/images/interface.png' | relative_url }}"
     type="application/pdf"
-    width="100%"
-    height="100%">
+    width="20%"
+    height="20%">
     <p>Your browser can’t display PDFs inline.
       <a href="{{ '/images/interface.pdf' | relative_url }}">Download interface.pdf</a>.
     </p>
@@ -58,6 +58,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
