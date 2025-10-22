@@ -26,7 +26,7 @@ Current email: ianho 'at' stanford.edu
 
 <div style="position:relative; height: 800px; border-radius:8px; overflow:hidden;">
   <object
-    data="{{ '/images/interface.pdf' | relative_url }}"
+    data="{{ '/images/interface.png' | relative_url }}"
     type="application/pdf"
     width="100%"
     height="100%">
@@ -58,6 +58,7 @@ Current email: ianho 'at' stanford.edu
       style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
     </iframe>
   </div>  
+
 
 
 
