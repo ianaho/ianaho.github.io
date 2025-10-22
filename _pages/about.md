@@ -32,7 +32,7 @@ Current email: ianho 'at' stanford.edu
 
 <img src="{{ '/images/ads.png' | relative_url }}"
      alt="Interface diagram"
-     style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto;">
+     style="max-width:440px; width:100%; height:auto; display:block; margin:0 auto;">
 
 **Selected list of related publications**
 - [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
@@ -65,6 +65,7 @@ These works have also been the focus of some press:
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
   </iframe>
 </div>
+
 
 
 
