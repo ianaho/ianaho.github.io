@@ -38,7 +38,7 @@ Selected list of related publications:
 - [Self-learning mechanical circuits](https://arxiv.org/abs/2304.08711) (*Preprint*, 2024)
 
 A summary of this work can be found here:
-- ["Steampunk" Self-Learning Mechanical Circuits That Adapt to Their Environments]([https://physics.aps.org/articles/v16/s156](https://hai.stanford.edu/news/steampunk-self-learning-mechanical-circuits-that-adapt-to-their-environments)) (*HAI-Stanford*, 2025)
+- ["Steampunk" Self-Learning Mechanical Circuits That Adapt to Their Environments](https://hai.stanford.edu/news/steampunk-self-learning-mechanical-circuits-that-adapt-to-their-environments) (*HAI-Stanford*, 2025)
 
 ---
 
@@ -68,6 +68,7 @@ These works have also been the focus of some press:
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
   </iframe>
 </div>
+
 
 
 
